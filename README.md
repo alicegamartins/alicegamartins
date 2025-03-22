@@ -104,7 +104,7 @@ Sou estudante de Engenharia de Software na PUC Minas e apaixonada por tecnologia
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicegamartins&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=2" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicegamartins&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
   />
 
 </p>
