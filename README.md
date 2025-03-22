@@ -91,7 +91,6 @@ Sou estudante de Engenharia de Software na PUC Minas e apaixonada por tecnologia
 ### 📊 Estatísticas
 
 
-<div align="center">
 <img 
     align="left" 
     alt="estatisticas" 
