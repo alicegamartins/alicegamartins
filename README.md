@@ -1,4 +1,4 @@
-# Alice Martins👩🏻‍💻
+# Alice Martins
 
 **`Desenvolvedora FullStack`**
 
