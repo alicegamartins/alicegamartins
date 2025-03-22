@@ -99,12 +99,11 @@ Sou estudante de Engenharia de Software na PUC Minas e apaixonada por tecnologia
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=alicegamartins&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
 />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
+      style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicegamartins&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
   />
-
 </p>
