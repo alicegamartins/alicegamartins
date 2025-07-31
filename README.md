@@ -42,11 +42,11 @@ Sou estudante de Engenharia de Software na PUC Minas e apaixonada por tecnologia
 />
 <img 
     align="left" 
-    alt="Swift" 
-    title="Swift"
+    alt="laravel" 
+    title="laravel"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
 />
 <img 
     align="left" 
